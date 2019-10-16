@@ -6,6 +6,6 @@ There are few steps that we have to take after you agree on a project (brief/des
 
 1. Create a new repository using the agreed project name and description (Please note: Do not start the name with 3rd year project). 
 2. Use the [MD guideline found here](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) to formate your project page.
-3. All project document must be written in [Latex](https://www.latex-project.org/)
+3. All project document must be written in [Latex](https://www.latex-project.org/).
 4. For projects that require a test enviroment, please use [vagrant](https://www.vagrantup.com/) to build your virtual machines.
-5. For projects that requires the development of REST API please use open api specification in [Swagger](https://swagger.io/)
+5. For projects that requires the development of REST API please use open api specification in [Swagger](https://swagger.io/).
