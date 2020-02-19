@@ -9,3 +9,9 @@ There are few steps that we have to take after you agree on a project (brief/des
 3. All project document must be written in [Latex](https://www.latex-project.org/).
 4. For projects that require a test enviroment, please use [vagrant](https://www.vagrantup.com/) to build your virtual machines. Feel free to use this [cheatsheet](https://gist.github.com/Nawfal3D/050d73812ea06e1d984a1621c75e790d).
 5. For projects that requires the development of REST API please use open api specification in [Swagger](https://swagger.io/).
+6. Supervisors and student must agree on a regural supervision time
+7. At each session the supervisor has to do two things
+  A - Check his written notes for previous meeting objectives that the student has set for him/her self 
+  B - Help the student write new objectives for next week 
+8. Triple check the project on git and make sure the tools work
+9. Ask for any tutorials that the student used to learn and document it for future student. 
